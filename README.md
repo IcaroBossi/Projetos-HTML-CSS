@@ -8,7 +8,7 @@ Cada projeto está organizado em uma pasta separada e pode ser aberto diretament
 
 ## 📁 Projetos Disponíveis
 
-### ⚽ [Tabela do Brasileirão 2025](./Tabela-Brasileirao-2025)
+### ⚽ [Tabela do Brasileirão 2025](./tabela-brasileirao)
 
 > Projeto que simula a tabela de classificação do Campeonato Brasileiro Série A, com dados reais atualizados até a 9ª rodada.
 
@@ -16,4 +16,4 @@ Cada projeto está organizado em uma pasta separada e pode ser aberto diretament
 - ✅ Destaques visuais para G4, Sul-Americana e zona de rebaixamento
 - 📄 Desenvolvido com HTML e CSS puro
 
-🔗 [Veja os arquivos do projeto](./Tabela-Brasileirao-2025/)
+🔗 [Veja os arquivos do projeto](./tabela-brasileirao/)
