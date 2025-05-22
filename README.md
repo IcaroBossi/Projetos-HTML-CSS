@@ -14,9 +14,9 @@ Cada projeto está organizado em uma pasta separada e pode ser aberto diretament
 
 - ✅ Layout responsivo
 - ✅ Destaques visuais para G4, Sul-Americana e zona de rebaixamento
-- 📄 Desenvolvido com HTML e CSS puro
 
 🔗 [Veja os arquivos do projeto](./tabela-brasileirao/)
+
 
 ### ✈️ [Site da Agência de Viagem - Mundo Afora](./agencia-viagem)
 
