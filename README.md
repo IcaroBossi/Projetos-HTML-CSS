@@ -17,3 +17,17 @@ Cada projeto está organizado em uma pasta separada e pode ser aberto diretament
 - 📄 Desenvolvido com HTML e CSS puro
 
 🔗 [Veja os arquivos do projeto](./tabela-brasileirao/)
+
+### ✈️ [Site da Agência de Viagem - Mundo Afora](./agencia-viagem)
+
+> Mini-site fictício para uma agência de viagens, com múltiplas páginas: Início, Destinos, Sobre e Contato.
+
+- ✅ Múltiplas páginas HTML
+- ✅ Menu de navegação entre as páginas
+- ✅ Cards de destinos com layout flexível
+- ✅ Formulário de contato simples
+- ✅ Imagem de destaque usando CSS
+
+🔗 [Veja os arquivos do projeto](./agencia-viagem/)
+
+---
